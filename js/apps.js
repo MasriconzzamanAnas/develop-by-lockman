@@ -61,4 +61,4 @@ function promocode() {
   } else {
     alert("Invalid promo code.");
   }
-}
+}    
